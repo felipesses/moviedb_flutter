@@ -1,0 +1,6 @@
+lib/app/move_card/move_card_widget.dart
+test/app/move_card/move_card_widget_test.dart
+lib/app/move_card/bloc/move_card_bloc.dart
+lib/app/move_card/bloc/move_card_state.dart
+lib/app/move_card/bloc/move_card_event.dart
+test/app/move_card/move_card_bloc_test.dart

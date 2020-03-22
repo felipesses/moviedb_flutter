@@ -1,0 +1,4 @@
+lib/app/search/search_page.dart
+test/app/search/search_page_test.dart
+lib/app/search/search_bloc.dart
+test/app/search/search_bloc_test.dart
