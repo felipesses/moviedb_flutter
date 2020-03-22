@@ -1,7 +1,7 @@
 import 'package:dio/dio.dart';
 import 'package:flutter/material.dart';
 import 'package:moviedb_flutter/app/models/movie_model.dart';
-import 'package:moviedb_flutter/app/search/search_bloc.dart';
+import 'package:moviedb_flutter/app/pages/search/search_bloc.dart';
 import 'package:moviedb_flutter/app/services/movie_service.dart';
 import 'package:moviedb_flutter/app/widgets/movie_card.dart';
 

@@ -1,12 +1,12 @@
-import 'package:moviedb_flutter/app/search/search_bloc.dart';
+import 'package:moviedb_flutter/app/pages/home/home_module.dart';
+import 'package:moviedb_flutter/app/pages/movie/movie_bloc.dart';
+import 'package:moviedb_flutter/app/pages/search/search_bloc.dart';
 import 'package:moviedb_flutter/app/services/movie_service.dart';
 import 'package:moviedb_flutter/app/app_bloc.dart';
 import 'package:flutter_modular/flutter_modular.dart';
 import 'package:flutter/material.dart';
 import 'package:moviedb_flutter/app/app_widget.dart';
-import 'package:moviedb_flutter/app/home/home_module.dart';
 import 'package:dio/dio.dart';
-import 'package:moviedb_flutter/app/movie/movie_bloc.dart';
 
 class AppModule extends MainModule {
   @override
