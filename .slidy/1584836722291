@@ -1,4 +1,0 @@
-lib/app/modules/movie/movie_page.dart
-test/app/modules/movie/movie_page_test.dart
-lib/app/modules/movie/movie_bloc.dart
-test/app/modules/movie/movie_bloc_test.dart
